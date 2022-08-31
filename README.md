@@ -1,5 +1,5 @@
-Hi 🏻‍♂️ My name is Abdeljalil Fenniri
-<h1>Hi 🙋, I am <a href="https://ashutoshhathidara.com/">Ashutosh (layman_brother)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+My name is Abdeljalil Fenniri
+<h1>Hi 🙋,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am <a href="https://ashutoshhathidara.com/">Ashutosh (layman_brother)</a></h1>
 ===================================
 
 software engineering studant 
