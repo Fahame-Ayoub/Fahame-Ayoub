@@ -6,12 +6,32 @@ Computer Science Student 👨‍💻
 
 I'm Ayoub Fahame, a highly motivated person, dynamic, persevering and rigorous. I'm Computer Science Student | Artificial Intelligence, Machine Learning, Deep Learning, and Data Science Enthusiast | General Manager Human Resources @ MMC | Academic Tutor & Math Content Creator.
 
-* 🌍  I'm based in morocco
-* ✉️  You can contact me at [abdeljalil.fenniri@gmail.com](mailto:abdeljalil.fenniri@gmail.com)
-* 🧠  I'm learning software engineering
-* 🤝  I'm open to collaborating on fullstack internship
-
 ### Skills
+◼ 𝗔𝗜, 𝗠𝗟, 𝗗𝗟 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 :
+ • Developing highly scalable production-ready models for various deep learning and statistical use cases.
+ • Experience in working with Computer Vision and NLP projects.
+ • Complex quantitative modeling for dynamic forecasting and time series analysis.
+◼ 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 :
+ • Building responsive website front end using React-Redux.
+ • Developing mobile applications using Flutter, React Native, and solo android apps using Kotlin.
+ • Creating application backend in Node, Express & Flask.
+◼ 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱 𝗜𝗻𝗳𝗿𝗮-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 :
+ • Working with multiple cloud platforms.
+ • Hosting and maintaining websites on virtual machine instances along with the integration of databases.
+ • Deploy deep learning models on the cloud to use on mobile devices.
+ • Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS.
+◼ 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻 :
+ • Designing a highly attractive user interface for mobile and web applications.
+ • Customizing logo designs and building logos from scratch.
+ • Creating the flow of application functionalities to optimize the user experience.
+◼ 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗧𝘂𝘁𝗼𝗿 & 𝗠𝗮𝘁𝗵 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 :
+ • Help students in preparatory classes - CPGE - to have a complete mastery of the special Mathematics program in order to ensure a good performance in the various competitive exams.
+ • Prepare students in Mathematics to ensure a good performance in the National Baccalaureate 
+ Examination.
+ • Supervision of preparation sessions for the National Mathematics Olympiads.
+ • Teach Mathematics to students of different Nationalities.
+
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
