@@ -3,10 +3,6 @@
 
 Computer Science Student 👨‍💻
 ----------------------------
-Artificial Intelligence, Machine Learning, and Data Science Enthusiast 🤖
-----------------------------
-Math Content Creator ❤️.
-----------------------------
 
 Starting my everyday life as a junior software engineer, trying to learn some new technologies to improve my soft skills ,and searching for some news on software development and computer science in general
 
