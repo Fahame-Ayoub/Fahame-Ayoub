@@ -1,7 +1,9 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> My name is 
 <a href="https://fahameayoub.engineer/">Fahame Ayoub ( Call me Fhihime 😋 )</a></h1>
 
-software engineering studant 
+Computer Science Student 👨‍💻 
+Artificial Intelligence, Machine Learning, and Data Science Enthusiast 🤖 
+Math Content Creator ❤️.
 ----------------------------
 
 Starting my everyday life as a junior software engineer, trying to learn some new technologies to improve my soft skills ,and searching for some news on software development and computer science in general
